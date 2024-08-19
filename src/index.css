@@ -1,0 +1,6 @@
+body{
+    background-color: lavender
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
